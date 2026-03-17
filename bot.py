@@ -7,7 +7,7 @@ TOKEN = os.getenv("7984815467:AAE-apCVpIILdnYyizB04EV9Iia3rarjNjw")
 CHAT_ID = os.getenv("8325310989")
 API_KEY = os.getenv("5b1a48954a206a6f0eb86f41bc8563fb")
 
-bot = Bot(token=TOKEN)
+bot = Bot(token=7984815467:AAE-apCVpIILdnYyizB04EV9Iia3rarjNjw)
 
 sent_matches = set()
 
